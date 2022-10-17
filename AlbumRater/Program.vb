@@ -7,7 +7,7 @@ Module Program
         Dim three, four, five As Decimal
         Dim album, artist As String
         Dim year, score, tracks As Integer
-        Const filename As String = "C:\Users\jonathans\Desktop\Ratings.txt"
+        Const filename As String = "C:\OneDrive\Desktop\Ratings.txt"
         Dim CurrentFileWriter As StreamWriter
 
         While True
